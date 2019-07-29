@@ -1,0 +1,17 @@
+Name: ÖSTERGAARD, SARA
+KID: s45961
+Computer Name: hp4e119854
+OS: Windows 10
+
+-------------------------------------------------------------------------------------------
+Scenario:  The user cannot find a folder on Ducument after migration
+
+User story: As a user, I want to be able to find my document
+
+Description:  The user cannot find a folder after migration, but the and the user found the folder.
+
+
+Title: The folder disappeared
+	1. The user called in request help to find a folder after migration.
+	2. I remoted the user computer and I waked thought the folder file and I found it.
+	3. The user agreed to case closure.
